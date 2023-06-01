@@ -1,0 +1,13 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Music",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Ashley Frangipane performs under the stage name Halsey.",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        }
+    ]
+}
