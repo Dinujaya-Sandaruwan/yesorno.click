@@ -1,11 +1,11 @@
 import Background from './components/Background';
-import Preview from './components/Preview';
+import Quiz from './components/Quiz';
 
 function App() {
     return (
         <div className="App">
-            <Background />
-            {/* <Preview /> */}
+            <Quiz />
+            {/* <Background /> */}
         </div>
     );
 }
